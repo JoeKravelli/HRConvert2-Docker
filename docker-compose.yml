@@ -1,7 +1,7 @@
 version: "3"
 services:
   app:
-    image: hrconvert2:latest
+    image: johannesk13/k13-repo:hrconvert2
     container_name: hrconvert2
     restart: always
     ports:
