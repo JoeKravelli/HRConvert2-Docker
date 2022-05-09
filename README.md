@@ -1,6 +1,6 @@
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/dwaaan/hrconvert2-docker.svg)![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/dwaaan/hrconvert2-docker.svg) [![](https://images.microbadger.com/badges/image/dwaaan/hrconvert2-docker.svg)](https://microbadger.com/images/dwaaan/hrconvert2-docker )
 ![Docker Automated build](https://img.shields.io/docker/automated/johannesk13/k13-repo)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/JoeKravelli/HRConvert2-Docker)
+[![Known Vulnerabilities](https://snyk.io/test/github/JoeKravelli/HRConvert2-Docker/badge.svg)]
+
 
 # HRConvert2-Docker V2.9.2
 
