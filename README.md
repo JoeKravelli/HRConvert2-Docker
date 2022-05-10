@@ -1,6 +1,5 @@
 ![Docker Automated build](https://img.shields.io/docker/automated/johannesk13/k13-repo)
-[![Known Vulnerabilities](https://snyk.io/test/github/JoeKravelli/HRConvert2-Docker/badge.svg)](https://snyk.io/test/github/JoeKravelli/HRConvert2-Docker)
-
+![Docker Automated build](https://img.shields.io/badge/docker%20build-passing-brightgreen)
 
 # HRConvert2-Docker V2.9.2
 
