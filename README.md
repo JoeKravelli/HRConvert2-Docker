@@ -1,4 +1,3 @@
-![Docker manual build](https://img.shields.io/docker/automated/johannesk13/k13-repo)
 ![Docker passing](https://img.shields.io/badge/docker%20build-passing-brightgreen)
 ![Snyk scan](https://img.shields.io/badge/snyk-scanned-blueviolet)
 
